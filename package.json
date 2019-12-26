@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is project nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "le xuan loc",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.8.3"
+  },
+  "devDependencies": {
+    "ejs": "^3.0.1",
+    "nodemon": "^2.0.2"
+  }
+}
