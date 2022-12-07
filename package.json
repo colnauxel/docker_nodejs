@@ -9,7 +9,7 @@
   "author": "le xuan loc",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "mongo": "^0.1.0",
     "mongoose": "^5.8.3"
   },
